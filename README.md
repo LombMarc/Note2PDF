@@ -1,5 +1,5 @@
 # Note2PDF
-nella directory dove è salvato il file.py crea una cartella chiamata "images". Per creare un pdf inserisci le foto in formato .jpg, .png o .jpeg nella cartella e poi esegui lo script, Troverai nella directory originaria un nuovo file .pdf con il titolo inserito contenente tutte le foto aggiunte alla cartella. 
+Nella directory dove è salvato il file.py crea una cartella chiamata "images". Per creare un pdf inserisci le foto in formato .jpg, .png o .jpeg nella cartella e poi esegui lo script, Troverai nella directory originaria un nuovo file .pdf con il titolo inserito contenente tutte le foto aggiunte alla cartella. 
 
 NB ricorda di eliminare le foto dalla cartella dopo ogni utilizo!
 
