@@ -13,10 +13,6 @@ NB ricorda di eliminare le foto dalla cartella dopo ogni utilizo!
 888P' `Y8P8 `Y8P' 8   8    8   8 `Y88  Y8P `Y88 8 `Y88P
 
 
- __        __                    ___            ___ 
-|__) |  | /  \ |\ |    |\ |  /\   |   /\  |    |__  
-|__) \__/ \__/ | \|    | \| /~~\  |  /~~\ |___ |___ 
-                                                    
 
 
 
