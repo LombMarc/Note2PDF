@@ -1,0 +1,21 @@
+from fpdf import FPDF
+import os
+
+
+path="images"
+Img_Note= []
+
+for name in os.listdir(path):
+    ext = os.path.splitext(name)[1]
+    if ext.lower() not in [".jpg",".png", ".jpeg"]:
+        continue
+    Img_Note.append(path+"/"+name)
+
+
+PDF= FPDF()
+PDF.add_page()
+
+for i in Img_Note:
+    PDF.image(i)
+name = input("Inserire nome file: ")
+PDF.output(name = name, dest="F")
